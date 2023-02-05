@@ -34,5 +34,6 @@
             dataTableManger.InsertintoDataTable(contactDataManagers);
             dataTableManger.Display();
         }
+
     }
 }
