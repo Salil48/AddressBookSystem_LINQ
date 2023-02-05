@@ -1,4 +1,6 @@
-﻿namespace LINQ_AddressBook
+﻿using LINQ_AddressBook;
+
+namespace LINQ_AddressBook
 {
     public class Program
     {
@@ -49,5 +51,6 @@
             string var5 = dataTableManger.SortBasedOnNameInDataTable("chennai");
             Console.WriteLine("Success" + varl);
         }
+
     }
 }
