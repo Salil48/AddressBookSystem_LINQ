@@ -12,10 +12,10 @@
             dataTableManger.CreateDataTable();
 
             //Insert Values into Table
-            contactDataManager.FirstName = "Shalini";
-            contactDataManager.LastName = "Venkatesh";
+            contactDataManager.FirstName = "Shaket";
+            contactDataManager.LastName = "Verma";
             contactDataManager.PhoneNumber = 9842905050;
-            contactDataManager.Email = "shalini@gmail.com";
+            contactDataManager.Email = "shaket@gmail.com";
             contactDataManager.Address = "4,B Block,Avadi";
             contactDataManager.City = "chennai";
             contactDataManager.State = "TN";
